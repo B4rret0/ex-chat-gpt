@@ -1,0 +1,50 @@
+body {
+    background-color: grey;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    align-items: center;
+}
+
+section {
+    background-color: white;
+
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+    width: 300px;
+}
+div#red {
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    width: 90px;
+    border-radius: 3px;
+}
+
+div#blue {
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    margin-top: 18px;
+    width: 90px;
+    border-radius: 3px;
+}
+
+div#green {
+    padding: 12px;
+    margin-top: 18px;
+    background-color: green;
+    width: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 12px;
+}
