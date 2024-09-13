@@ -8,6 +8,7 @@ function entroured() { //  entrou no VERMELHO
     geral.style.backgroundColor = 'red'
     red.style.border = '1px ridge white'
     geral.style.border = '1px ridge white'
+
 }
 
 function saiured() { //  saiu do VERMELHO
@@ -47,4 +48,4 @@ function clicoublue() {
 
 function clicougreen() {
     body.style.backgroundColor = 'green'
-}   
+}
