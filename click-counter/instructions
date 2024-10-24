@@ -1,0 +1,24 @@
+Desafio: Página de "Contador de Cliques"
+Objetivo: Criar uma página que tenha um contador que aumenta o número exibido cada vez que o botão é clicado.
+
+Requisitos:
+- HTML: Estrutura básica da página contendo um título, um texto que exibe o número atual e um botão.
+- CSS: Estilizar a página com cores e fontes básicas, centralizando o conteúdo na tela.
+- JavaScript: Fazer o botão incrementar o número exibido na tela a cada clique.
+
+Passo a passo:
+ Estrutura do HTML:
+  - Título da página: "Contador de Cliques"
+  - Um texto que mostre o número atual (começando em 0).
+  - Um botão que, ao ser clicado, incrementa o valor do contador.
+
+ CSS para Estilo:
+  - Centralizar o conteúdo na tela (usar flexbox ou outro método).
+  - Estilizar o botão com uma cor de fundo, arredondamento de bordas e uma animação simples ao passar o mouse.
+  - JavaScript para Funcionalidade. 
+  - Capturar o evento de clique no botão e atualizar o número no HTML.
+
+Funcionalidades adicionais (opcional):
+ - Adicione um botão de reset para zerar o contador.
+ - Mude a cor do número do contador conforme ele aumenta (ex: verde para números maiores que 10).
+ - Mostre uma mensagem especial quando o número chegar a 10, como "Você clicou 10 vezes!".
