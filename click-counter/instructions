@@ -21,4 +21,4 @@ Passo a passo:
 Funcionalidades adicionais (opcional):
  - Adicione um botão de reset para zerar o contador.
  - Mude a cor do número do contador conforme ele aumenta (ex: verde para números maiores que 10).
- - Mostre uma mensagem especial quando o número chegar a 10, como "Você clicou 10 vezes!".
+ - Mostre uma mensagem especial quando o número chegar a 10, como "Você clicou 10 vezes!".              
